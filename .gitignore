@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+
+# Data and models
+data/
+models/*.h5
+
+# Jupyter notebooks
+*.ipynb_checkpoints/
+
+# Misc
+*.log
+.DS_Store
