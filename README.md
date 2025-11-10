@@ -5,7 +5,7 @@ This project deploys a dense neural network to classify CIFAR-10 images (60,000 
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cifar10-classifier.git
+   git clone https://github.com/Reemsoliiman/CIFAR10-Image-Classifier.git
    cd cifar10-classifier
    ```
 2. Install dependencies:
